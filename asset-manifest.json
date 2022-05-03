@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/github.io/react-chat/static/css/main.4845cf2f.css",
+    "main.js": "/github.io/react-chat/static/js/main.541bce54.js",
+    "index.html": "/github.io/react-chat/index.html",
+    "main.4845cf2f.css.map": "/github.io/react-chat/static/css/main.4845cf2f.css.map",
+    "main.541bce54.js.map": "/github.io/react-chat/static/js/main.541bce54.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4845cf2f.css",
+    "static/js/main.541bce54.js"
+  ]
+}
