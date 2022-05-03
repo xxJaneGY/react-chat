@@ -1,10 +1,10 @@
-### Create a React Chat App
+## Create a React Chat App
 - ChatEngine
 - Sockets, Rest APIs, Sending Images, React Hooks, Props, and CSS
 
-## Login inform
+# Login inform
 - username: JS || apple
 - password: 1234
 
-## Page
+# Page
 - https://xxjanegy.github.io/react-chat/
