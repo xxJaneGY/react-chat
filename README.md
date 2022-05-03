@@ -1,7 +1,7 @@
 # Create a React Chat App
  
- ChatEngine
- Sockets, Rest APIs, Sending Images, React Hooks, Props, and CSS
+- ChatEngine
+- Sockets, Rest APIs, Sending Images, React Hooks, Props, and CSS
 
 
 ## Login inform
